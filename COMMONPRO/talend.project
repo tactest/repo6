@@ -1304,4 +1304,5 @@
     <migrationTask xmi:id="_Dmq8Qd4eEeaW6JDm4sdeMg" id="org.talend.repository.model.migration.ChangeMappingFileMigrationTask" breaks="6.2.1" version="6.2.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_zi5aYnMkEea2QtDRiJ4O5A" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_DpAekN4eEeaW6JDm4sdeMg" login="Trigger-Runner" type="MDM"/>
 </xmi:XMI>
