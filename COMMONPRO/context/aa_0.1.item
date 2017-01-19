@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
-  <talendfile:ContextType confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="age" prompt="age?" promptNeeded="false" type="id_String" value="44"/>
-    <contextParameter comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value="1988-02-03"/>
-    <contextParameter comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value="john"/>
+  <talendfile:ContextType xmi:id="_EdDxsN4eEeaW6JDm4sdeMg" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_EdDxsd4eEeaW6JDm4sdeMg" comment="" name="age" prompt="age?" promptNeeded="false" type="id_String" value="44"/>
+    <contextParameter xmi:id="_EdDxst4eEeaW6JDm4sdeMg" comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value="1988-02-03"/>
+    <contextParameter xmi:id="_EdDxs94eEeaW6JDm4sdeMg" comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value="john"/>
   </talendfile:ContextType>
-  <talendfile:ContextType confirmationNeeded="false" name="pp">
-    <contextParameter comment="" name="age" prompt="age?" promptNeeded="false" type="id_String" value="88"/>
-    <contextParameter comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value="2088-02-03"/>
-    <contextParameter comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value="ddd"/>
+  <talendfile:ContextType xmi:id="_EdDxtN4eEeaW6JDm4sdeMg" confirmationNeeded="false" name="pp">
+    <contextParameter xmi:id="_EdDxtd4eEeaW6JDm4sdeMg" comment="" name="age" prompt="age?" promptNeeded="false" type="id_String" value="88"/>
+    <contextParameter xmi:id="_EdDxtt4eEeaW6JDm4sdeMg" comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value="2088-02-03"/>
+    <contextParameter xmi:id="_EdDxt94eEeaW6JDm4sdeMg" comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value="ddd"/>
   </talendfile:ContextType>
 </xmi:XMI>
