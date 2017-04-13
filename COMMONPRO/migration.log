@@ -360,3 +360,22 @@
  * Task [UpdatetPredictSparkVersionTask] : Applied successfully
  * Task [AutoUpdateRelationsMigrationTask] : Applied successfully
  ---=== End of migration ===---
+ * Task [Fix a problem of project resources linked to items] : Nothing to do
+ * Task [UpdatecSOAPServiceNamePortNameDefault] : Nothing to do
+ * Task [FixUnevenItemContextParametersMigrationTask] : Nothing to do
+ * Task [Update tMelissaDataAddress to add a GeoCodeResult column and an advanced parameter] : Applied successfully
+ * Task [Change MSSQL DBVersion] : Nothing to do
+ * Task [UpdateTMatchGroupOutPutSchemaTask] : Applied successfully
+ * Task [ChangeTypeMappingForRedshift] : Applied successfully
+ * Task [AddNewIgnoreNullSettingForTMicrosoftCrmOutputTask] : Applied successfully
+ * Task [UncheckExceptionOnFileExistMigrationTask] : Applied successfully
+ * Task [ResetVMArgumentMigrationTask] : Applied successfully
+ * Task [NewAzureBlobMigrationTask] : Nothing to do
+ * Task [RenameToCSoapAndCRestMigrationTask] : Nothing to do
+ * Task [NewMarketoMigrationTask] : Nothing to do
+ * Task [ChangeDBversionForSybaseIQMigrationTask] : Applied successfully
+ * Task [ResetJobletComponentNameMigrationTask] : Applied successfully
+ * Task [ResetItemLabelMigrationTask] : Applied successfully
+ * Task [org.talend.designer.mapreduce.repository.migration.AddSupportedSparkVersionMigrationTask] : Nothing to do
+ * Task [AutoUpdateRelationsMigrationTask] : Applied successfully
+ ---=== End of migration ===---
