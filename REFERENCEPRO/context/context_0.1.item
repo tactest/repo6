@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
-  <talendfile:ContextType confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="age" prompt="age?" promptNeeded="false" type="id_Integer" value="23"/>
-    <contextParameter comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value="yyyy-MM-dd HH:mm:ss;1988-08-13 00:00:00"/>
-    <contextParameter comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value="JackZhang"/>
+  <talendfile:ContextType xmi:id="_-gDhwF_EEee_QqBrdNTQfw" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_-gDhwV_EEee_QqBrdNTQfw" comment="" name="age" prompt="age?" promptNeeded="false" type="id_Integer" value="23"/>
+    <contextParameter xmi:id="_-gEI0F_EEee_QqBrdNTQfw" comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value="yyyy-MM-dd HH:mm:ss;1988-08-13 00:00:00"/>
+    <contextParameter xmi:id="_-gEI0V_EEee_QqBrdNTQfw" comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value="JackZhang"/>
   </talendfile:ContextType>
-  <talendfile:ContextType confirmationNeeded="false" name="ff">
-    <contextParameter comment="" name="age" prompt="age?" promptNeeded="false" type="id_Integer" value="21"/>
-    <contextParameter comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value="rrrr"/>
-    <contextParameter comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value="JackZhang"/>
+  <talendfile:ContextType xmi:id="_-gEI0l_EEee_QqBrdNTQfw" confirmationNeeded="false" name="ff">
+    <contextParameter xmi:id="_-gEI01_EEee_QqBrdNTQfw" comment="" name="age" prompt="age?" promptNeeded="false" type="id_Integer" value="21"/>
+    <contextParameter xmi:id="_-gEI1F_EEee_QqBrdNTQfw" comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value="rrrr"/>
+    <contextParameter xmi:id="_-gEI1V_EEee_QqBrdNTQfw" comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value="JackZhang"/>
   </talendfile:ContextType>
-  <talendfile:ContextType confirmationNeeded="false" name="nn">
-    <contextParameter comment="" name="age" prompt="age?" promptNeeded="false" type="id_Integer" value=""/>
-    <contextParameter comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value=""/>
+  <talendfile:ContextType xmi:id="_-gEI1l_EEee_QqBrdNTQfw" confirmationNeeded="false" name="nn">
+    <contextParameter xmi:id="_-gEI11_EEee_QqBrdNTQfw" comment="" name="age" prompt="age?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_-gEI2F_EEee_QqBrdNTQfw" comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_-gEI2V_EEee_QqBrdNTQfw" comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value=""/>
   </talendfile:ContextType>
-  <talendfile:ContextType confirmationNeeded="false" name="oneValueSetted">
-    <contextParameter comment="" name="age" prompt="age?" promptNeeded="false" type="id_Integer" value=""/>
-    <contextParameter comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value="JackZhang"/>
+  <talendfile:ContextType xmi:id="_-gEI2l_EEee_QqBrdNTQfw" confirmationNeeded="false" name="oneValueSetted">
+    <contextParameter xmi:id="_-gEI21_EEee_QqBrdNTQfw" comment="" name="age" prompt="age?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_-gEI3F_EEee_QqBrdNTQfw" comment="" name="birth" prompt="birth?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_-gEI3V_EEee_QqBrdNTQfw" comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value="JackZhang"/>
   </talendfile:ContextType>
 </xmi:XMI>
