@@ -644,7 +644,6 @@
     <migrationTask xmi:id="_WvsDGnMmEeaF4u6PcgRfhQ" id="org.talend.repository.model.migration.ChangeDBVersionValue4BonitaComponents" breaks="6.1.1" version="6.1.2" status="noimpact"/>
     <migrationTask xmi:id="_9-1EAF_EEee_QqBrdNTQfw" id="org.talend.repository.model.migration.ChangeMappingFileMigrationTask" breaks="6.2.1" version="6.2.2" status="ok"/>
     <migrationTask xmi:id="_9-1EAV_EEee_QqBrdNTQfw" id="org.talend.repository.model.migration.AddJavaVersionMigrationTask" breaks="6.3.1" version="6.4.0" status="ok"/>
-    <migrationTask xmi:id="_-1e_MF_EEee_QqBrdNTQfw" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_-1e_MV_EEee_QqBrdNTQfw" id="org.talend.camel.designer.migration.UpdatecSOAPServiceNamePortNameDefault" breaks="5.4.1" version="5.6.1" status="noimpact"/>
     <migrationTask xmi:id="_-1e_Ml_EEee_QqBrdNTQfw" id="org.talend.repository.model.migration.ChangeLogLevel4tRedshiftInput" breaks="6.2.0" version="6.2.0" status="ok"/>
     <migrationTask xmi:id="_-1e_M1_EEee_QqBrdNTQfw" id="org.talend.repository.model.migration.FixUnevenItemContextParametersMigrationTask" breaks="6.1.0" version="6.4.0" status="noimpact"/>
@@ -677,6 +676,10 @@
     <migrationTask xmi:id="_-1fmTV_EEee_QqBrdNTQfw" id="org.talend.repository.model.migration.AddFailOnErrorOnTFileCopyTDI38441" breaks="6.3.1" version="6.4.0" status="ok"/>
     <migrationTask xmi:id="_-1fmTl_EEee_QqBrdNTQfw" id="org.talend.repository.model.migration.SetSparkDataframeAlphabeticalSortOrder" breaks="6.1.0" version="6.1.0" status="noimpact"/>
     <migrationTask xmi:id="_WvsDG3MmEeaF4u6PcgRfhQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_RA4twF_HEeerfJoHIl0VVA" id="org.talend.mdm.repository.core.migrate.UpdateViewObjectPathMT" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_RA4twV_HEeerfJoHIl0VVA" id="org.talend.mdm.repository.core.migrate.UpdateProcessObjectPathMT" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_RA4twl_HEeerfJoHIl0VVA" id="org.talend.mdm.repository.core.migrate.RemoveRefNameMT" breaks="6.0.0" version="6.0.0" status="noimpact"/>
+    <migrationTask xmi:id="_RA4tw1_HEeerfJoHIl0VVA" id="org.talend.mdm.repository.core.migrate.UpdateOperatorMigrationTask" breaks="6.2.0" version="6.2.0" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_V9tzUnMmEeaF4u6PcgRfhQ" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_9vqmoF_EEee_QqBrdNTQfw" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
